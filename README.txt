@@ -14,3 +14,6 @@ Current Projects in this Repository
 
 A simple application where users can add and delete tasks.
 Implements CRUD operations with local storage.
+2,Calculator
+
+A simple calculator application that can perform basic arithmetic operations
