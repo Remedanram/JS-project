@@ -62,7 +62,15 @@ document.getElementById("demo3").innerHTML="sample in learning DOM";
 // Event listener
 
 document.getElementById("myBtn").addEventListener("click",function(){
+
+    
     alert("eventListener")
 
 
 });
+
+
+
+document.addEventListener('DOMContentLoaded',function()){
+     
+}
